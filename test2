@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+az group create --name rg-demo-01 --location eastus
+az group create --name rg-demo-02 --location eastus
